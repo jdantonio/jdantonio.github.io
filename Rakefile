@@ -2,6 +2,8 @@ require "rubygems"
 require "bundler/setup"
 require "stringex"
 
+Dir.glob('tasks/**/*.rake').each { |rakefile| load rakefile }
+
 ## -- Config -- ##
 
 public_dir      = "public"    # compiled site directory
