@@ -1,0 +1,27 @@
+feature: background_abstract.jpg
+credit: christmasstockimages.com
+creditlink: http://christmasstockimages.com/free/borders/slides/background_abstract.htm
+
+feature: tinsel_bokeh.jpg
+credit: christmasstockimages.com 
+creditlink: http://christmasstockimages.com/free/abstract/slides/tinsel_bokeh.htm
+
+feature: Landscape_of_Venu_by_Abstract_Background.jpg
+credit: Abstract-Background
+creditlink: http://abstract-background.deviantart.com/art/Landscape-of-Venu-106239504
+
+feature: vector-25.jpg
+credit: PUBLICDOMAINVECTORS
+creditlink: http://designerpixels.com/portfolio/glow-light-green-panels-abstract-background/
+
+feature: vectorstock_1999390.jpg
+credit: VECTORSTOCK
+creditlink: http://designerpixels.com/portfolio/purple-polygonal-abstract-background/
+
+feature: mama_i_m_coming_home_by_joe_maccer-d7qhtxf.jpg
+credit: Joe-Maccer
+creditlink: http://joe-maccer.deviantart.com/art/Mama-I-m-Coming-Home-467765187
+
+feature: weightless_and_wondering_by_2born02b-d7qh1nw.jpg
+credit: 2BORN02B
+creditlink: http://2born02b.deviantart.com/art/Weightless-and-Wondering-467728556

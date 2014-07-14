@@ -3,6 +3,10 @@ layout: post-index
 permalink: /tags/
 title: Tag Archive
 description: "An archive of posts sorted by tag."
+image:
+  feature: backgrounds/vector-25.jpg
+  credit: PUBLICDOMAINVECTORS
+  creditlink: http://designerpixels.com/portfolio/glow-light-green-panels-abstract-background/
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
