@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "The Keywords 'class' and 'new' are Overrated"
-date:   2014-07-13 21:00:00
-modified: 2014-07-13
+title: "The Keywords 'class' and 'new' Are Overrated"
+modified: 2014-07-14 10:00:00 -0400
 tags: [oop, fp, ruby]
 comments: true
 share: true  
