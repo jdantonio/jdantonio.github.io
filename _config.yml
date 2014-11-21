@@ -1,76 +1,36 @@
-title:            You Know Nothing, Jerry D'Antonio
-description:      Random musings on leadership and software development.
-disqus_shortname: jerrydantonio
-reading_time:     true
-words_per_minute: 200
-#Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://localhost:4000
-url:              http://jdantonio.github.io
+##The website title
+name: Jerry D'Antonio
+##Markdown processor
+markdown: redcarpet
+##syntax highlighter
+highlighter: rouge
 
-# Owner/author information
-owner:
-  name:           Jerry D'Antonio
-  avatar:         profile-5.png
-  bio:            "Husband, computer programmer, educator, Navy veteran, Catholic, libertarian, gamer, metal-head, MMA fan, occasional speaker. I work with Ruby & Erlang."
-  email:          stumpjumper@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        jerrydantonio
-  #facebook:       
-  github:         jdantonio
-  #stackexchange:  
-  linkedin:       jdantonio
-  #instagram:      
-  #flickr:         
-  #tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  #google_plus:   
-
-# Background image to be tiled on all pages
-background: 
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  #- title: Theme Setup
-    #url: /theme-setup
-  #- title: External Link
-    #url: http://mademistakes.com
-    #external: true
-  - title: Concurrent Ruby
-    url: https://github.com/ruby-concurrency/concurrent-ruby
-    external: true
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-highlighter: pygments
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
-
-# Amount of post to show on home page
+##define base_url for valid usage in sitemap.xml and robots.txt
+#base_url: http://gituser.github.io (or http://example.com)
+base_url: http://jdantonio.github.io
+sass:
+  sass_dir: _sass
+  style: :compressed
 paginate: 5
+paginate_path: "page:num"
+##The website description (to be used in meta tags)
+description: Random musings on leadership and software development.
+##Some frequently used keywords on your website
+keywords: #some, relevant, keywords, for, usage, in metatags
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
+##define this for disqus comment support
+disqus: jerrydantonio
 
-coderay:
-  coderay_line_numbers: nil
-  coderay_line_numbers_start: 1
-  coderay_tab_width: 4
-  coderay_bold_every: 10
-  coderay_css: class
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "_sample_posts"]
+##Some commonly used links
+links:
+  facebook: jdantonio
+  twitter: jerrydantonio
+  email: stumpjumper@gmail.com
+  github: jdantonio
+
+##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
+about_image: concurrent-ruby-logo-300x300.png
