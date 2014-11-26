@@ -5,6 +5,8 @@ modified: 2014-07-14 10:00:00 -0400
 tags: [oop, fp, ruby]
 comments: true
 share: true  
+image:
+  feature: russia-journal-narrower.png
 ---
 *I originally post this to my previous blog about 2 or 3 years ago. I figure if I'm going to let another blog go fallow I may as well start with this post. --Jerry*
 

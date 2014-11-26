@@ -1,36 +1,57 @@
-##The website title
-name: Jerry D'Antonio
-##Markdown processor
-markdown: kramdown
-##syntax highlighter
-highlighter: rouge
+# Site wide configuration
 
-##define base_url for valid usage in sitemap.xml and robots.txt
-#base_url: http://gituser.github.io (or http://example.com)
-base_url: http://jdantonio.github.io
+title:            "Jerry D'Antonio"
+locale:           en_US
+#url:              http://jdantonio.github.io
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
 sass:
   sass_dir: _sass
-  style: :compressed
-paginate: 5
-paginate_path: "page:num"
-##The website description (to be used in meta tags)
-description: Random musings on leadership and software development.
-##Some frequently used keywords on your website
-keywords: #some, relevant, keywords, for, usage, in metatags
+  style: compressed
+gems:
+  - jekyll-sitemap
 
-##define this for disqus comment support
-disqus: jerrydantonio
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
-##set this to enable google analytics
-#ga_id: analyticsID
-#ga_domain: analyticsDomain
 
-##Some commonly used links
-links:
-  facebook: jdantonio
+# Site owner
+owner:
+  name: Jerry D'Antonio
+  avatar: profile-200-px.png
+  bio: "Husband, software developer, educator, Navy veteran, Catholic, progressive libertarian, contrarian, music-head, and Cleveland Bridge Builders graduate. I live in Akron, OH."
+  email: "stumpjumper@gmail.com"
+  disqus-shortname: jerrydantonio
   twitter: jerrydantonio
-  email: stumpjumper@gmail.com
+  facebook: jdantonio
+  google:
+    plus: 
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
   github: jdantonio
+  stackoverflow: 
+  linkedin: jdantonio
+  instagram: 
+  lastfm: stmpjmpr
+  tumblr: 
+  pinterest: 
+  foursquare: 
+  steam: jdantonio
+  dribbble: 
+  youtube: 
+  soundcloud: jdantonio
 
-##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: concurrent-ruby-logo-300x300.png
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

@@ -5,6 +5,8 @@ modified: 2014-10-20 23:00:00 -0400
 tags: [erlang, elixir]
 comments: true
 share: true  
+image:
+  feature: russia-journal-narrower.png
 ---
 
 When people discover I work in a shop whose primary languages are both Erlang and Ruby, something inevitable happens: I get asked about Elixir. People assume that out love of both Ruby and Erlang automatically equates to love of Elixir, and they are surprised to learn that isn't the case. Elixir is a fine language with a very passionate community. We have nothing *against* Elixir. We simply haven't found a significant reason to move to Elixir *from* Erlang.
