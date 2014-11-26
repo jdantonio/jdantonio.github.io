@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Jerry D'Antonio
   avatar: profile-200-px.png
-  bio: "Husband, software developer, educator, Navy veteran, Catholic, progressive libertarian, contrarian, music-head, and Cleveland Bridge Builders graduate. I live in Akron, OH."
+  bio: "Husband, software developer, educator, Navy veteran, Catholic, progressive libertarian, contrarian, music-head, and Cleveland Bridge Builder. I proudly live in Akron, OH."
   email: "stumpjumper@gmail.com"
   disqus-shortname: jerrydantonio
   twitter: jerrydantonio
@@ -44,14 +44,14 @@ owner:
   stackoverflow: 
   linkedin: jdantonio
   instagram: 
-  lastfm: stmpjmpr
+  #lastfm: stmpjmpr
   tumblr: 
   pinterest: 
   foursquare: 
-  steam: jdantonio
+  #steam: jdantonio
   dribbble: 
   youtube: 
-  soundcloud: jdantonio
+  #soundcloud: jdantonio
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
