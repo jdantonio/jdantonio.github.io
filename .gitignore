@@ -3,3 +3,5 @@ _site
 .ruby-*
 Gemfile.lock
 .sass-cache
+*.sw*
+*.class
