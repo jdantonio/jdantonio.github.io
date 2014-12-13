@@ -41,4 +41,7 @@ image:
 * I proudly live in [Akron, OH](http://www.akronohio.gov/) where I do what I can to keep
   **Northeast Ohio** such a great place to live.
 
+* I am **Catholic** and a member of [Saint Sebastian Parish](http://www.stsebastian.org/) where I lector,
+  serve on the Finance Committee, and am a member of the Pre-Cana team.
+
 * I love to **travel** and have visited almost 30 countries.
