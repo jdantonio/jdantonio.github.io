@@ -74,7 +74,7 @@ This code clearly implements type-based polymorphism, but it is very limited and
 ## Structure-based Polymorphism in Erlang
 
 The main function dispatch mechanism in Erlang is pattern matching. Where pattern matching truly shines is when matching
-against fields within a complext data structure such as a tuple. Consider this second example:
+against fields within a complex data structure such as a tuple. Consider this second example:
 
 {% highlight erlang linenos %}
 speak({phrase, hello}) ->
