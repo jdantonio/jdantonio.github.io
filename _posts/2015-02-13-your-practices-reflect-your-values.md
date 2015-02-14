@@ -13,13 +13,13 @@ The other day I was talking to a group of students from the [Software Craftsmans
 
 A job interview is a two-way street. The interviewer is trying to determine if they are talking to the right candidate. And the same time, the interviewer is trying to present the organization in the best possible way. Sometimes that means lying. Or at the very least, it means making a statement that the interviewer *believes* is true even though it's demonstrably false.
 
-Think about it for a second. Have tou ever asked an interviewer "Does this company value collaboration?" Has anyone--in the history of the world--ever said "No" to that question?
+Think about it for a second. Have you ever asked an interviewer "Does this company value collaboration?" Has anyone--in the history of the world--ever said "No" to that question?
 
 > "Does this company value collaboration?"
 > 
 > "Oh, hell no! Collaboration? Why we would do that? No, we force you to sit in your cubicle all day, headphones on, head down, banging out code for 8 hours a day. No one will ever ask your opinion, we'll just pile on the work and you'll knock it out."
 
-Imagine how quickly you'd run from the interview if you ever heard that answer! But the reality remains that there *are* copanies that work just like that. And all of them will look you in the eye during the interview and tell you how much they value callobration. And communication. And work/life balance...
+Imagine how quickly you'd run from the interview if you ever heard that answer! But the reality remains that there *are* companies that work just like that. And all of them will look you in the eye during the interview and tell you how much they value collaboration. And communication. And work/life balance...
 
 If you really want to know what a company values, ask the interviewer about how the company operates. You'll figure it out very quickly. If you want to know about collaboration, for example, ask who attends sprint planning. Ask how user story cards are sized. Ask how architecture is determined, or who writes the story cards, or what a junior developer does when a story card doesn't make sense. If everyone on the team goes to sprint planning, and everyone on the team discusses architectural decisions together, and everyone on the team collectively sizes cards, etc., then you know the company values collaboration.
 
