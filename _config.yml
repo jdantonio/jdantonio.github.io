@@ -3,7 +3,7 @@
 title:            "Jerry D'Antonio"
 locale:           en_US
 #url:              http://jdantonio.github.io
-
+include: [".well-known"]
 
 # Jekyll configuration
 

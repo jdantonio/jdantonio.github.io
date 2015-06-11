@@ -1,0 +1,71 @@
+---
+layout: none
+permalink: .well-known/keybase.txt
+---
+==================================================================
+https://keybase.io/jdantonio
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.jerrydantonio.com
+  * I am jdantonio (https://keybase.io/jdantonio) on keybase.
+  * I have a public key with fingerprint 86FE 74C3 533B 264B 9C68  9C74 01DF C58F C999 6F6D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "86fe74c3533b264b9c689c7401dfc58fc9996f6d",
+            "host": "keybase.io",
+            "key_id": "01dfc58fc9996f6d",
+            "kid": "0101cc13e7bf9ccc4637dc3cfef6f5b7b2a44f7edd4dcb548b3297473fb6603a605b0a",
+            "uid": "5dd27c0f8b44d2261d20402525c6af19",
+            "username": "jdantonio"
+        },
+        "service": {
+            "hostname": "www.jerrydantonio.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1433989143,
+    "expire_in": 157680000,
+    "prev": "4fcfd2db29213c4c0f0766362e127b1c683d32056a56791c404b49e420458bbe",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIhAnicbZJrSBRRFMfXLKXNojDJ8ktNYUWyzcy9c2dmLSgICkWjpG/VOvcx66zr
+zDY7vtYsInr3IXpgQtoLooKSoiAkQkWiBwUFRhopaiVihQRZUUR3RL91vxzuuf/z
+O/d/7u2emx4IphW1ff0LRrctSHveWVQd2FE3vqhBwA6tF8INQiWbDKZlR5mbcC3b
+E8KChkymQgIUALCMINYJ0nSiQlGiJlE0k+i6jkxEhQKhwkn6FRyDjSQLWQ7P8U3E
+ojz7H33l1IEoESIBpmJTJ4RABFRKADGZiUwFq1g2IDRVRimkBCtQw0DWVagCEyMk
+AgOJChYNjquexCmUyioRTQ1DSGUZSVQWoSgrskKQYUq6L0wy1zaqGFfHqGF7js2v
+2lgg8HSNRZg/A9/KlKS2tjYUY65bPy0NEaeKUxKu4znEiXNJheclwj7Bq09MljAc
+mYJFsGVTPlBeUMPcpOXYQljiSuJZPl2CAOiazkOBwOoSlssilq9QVKSJfPltWA1H
+QpOYVKZY1mUJEMgNiipCAMlMklUs8UcBFMiiggwFqbpEoAgx1Bnk5hUNYyb49vbY
+jhDmnTwjypFJK2obXrXLhMaujp0zA2nBQMasGf6XCARnz5/+KAOpzL+Ane5uxn/W
+Px4v35TXdrm96Xpu/ssTfde+L76d8bGzYtP9womR+Jmr2ovu77XB4XcrfzV/7Ja8
+kyCrfOD0qsyxOdl5oO3IwXM/xzIWXihd2nu86Whsvrjj2dDbwzvnbOjvWvZjV3D7
+1QcbW2BZQ/b19FBcGW0ZKSlcfcje+sUcPtaadaf91Yq1Iz25s15PxEra51lP87LK
+nLv5qYP9rzUj5/DTqpzWVEbHLXfc/hx5MLg7Ua/dC5xYU3mlOLDvyJYZQ7nnf59N
+XewsvTPW+uZGtK84fWb25lMpduDbzeUfGiPxT0/UR6Mlp8reb1/Qt+5StCU2+HDv
+5SUjOWcGWE/N6t798d3/AK2JLuc=
+=acw3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jdantonio
+
+==================================================================
