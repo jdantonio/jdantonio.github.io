@@ -12,8 +12,8 @@ image:
   I've worked with many programming languages in my time, but these days I work mostly with
   [Ruby](https://www.ruby-lang.org/en/) and [Erlang](http://www.erlang.org/).
 
-* I am a **Principal Software Developer** at [Virtual Hold Technology (VHT)](http://www.virtualhold.com/)
-  where I lead the new product team, building next-generation contact center and customer care solutions.
+* I am a **Software Developer** at [Test Double](http://www.testdouble.com/)
+  where I privileged to work with incredibly talented developers elegantly solving complex business problems.
 
 * I created [concurrent-ruby](http://www.concurrent-ruby.com), an **open source** project
   providing modern concurrency tools, such as actors agents, futures, promises, thread pools,
