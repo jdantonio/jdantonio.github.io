@@ -225,6 +225,9 @@ $button-size: 1.5rem;
 		@media #{$x-large} {
 			@include grid(12,4.5);
 		}
+    p {
+      padding-bottom: 15px;
+    }
 	}
 }
 #index {
