@@ -35,6 +35,16 @@ end
 stock_prices = futures.collect {|future| future.value } # iterate over all futures and get the values
 {% endhighlight %}
 
-The above code will run all the futures on the `GLOBAL_IO_EXECUTOR` which is a thread pool with an unbound size and unbound queue length. It will add as many threads as it needs (until the OS won't let it create any more--around 2000 on OS X, more on Linux). In the above example, all the I/O operations should run concurrently.
+The above code will run all the futures on the `GLOBAL_IO_EXECUTOR` which is a thread pool with an unbound size and unbound queue length. It will add as many threads as it needs (until the OS won't let it create any more--around 2000 on OS X, more on Linux). In the above example, all the I/O operations should run concurrently.<sup>[1]</sup>
 
 This highlights one of the biggest advantages of `concurrent-ruby` over other Ruby concurrency libraries. We are intentionally "unopinionated." We don't try to sell our users on the fallacy that there's a "one size fits all" concurrency solution. We provide a broad and deep toolkit that allows you to choose the best tool for the job.
+
+1. Note, I'm not syaing that you *should* run this many threads in your pool. There are diminishing returns to adding new threads as additional resources are consumed and the scheduler has to work harder. The better approach to the "500 blocking operations" problem would be to create a `Concurrent::FixedThreadPool` with a reasonable number of threads (10 maybe) and inject it into each `Concurrent::Future` at construction. This will allow all 500 tasks to be post and processed as quickly as possible without creating more threads than the system can reasonably handle. That solution would look something like this:
+
+{% highlight ruby %}
+pool = Concurrent::FixedThreadPool.new(10)
+
+futures = symbols.collect do |stock_symbol|
+  Concurrent::Future.execute(executor: pool) { MyFinanceApi.get_stock_price(stock_symbol) }
+end
+{% endhighlight %}
