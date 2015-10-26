@@ -9,7 +9,7 @@ image:
 ---
 
 *For the traditionalists, please download the* [MS Word](/cv/jerry-dantonio-resume.doc) *or*
-[PDF](/cv/jerry-dantonio-resume.doc) *version.*
+[PDF](/cv/jerry-dantonio-resume.pdf) *version.*
 
 ## Objective
 
@@ -32,7 +32,13 @@ To work with great developers building great software and have fun doing it.
 
 ## Employment
 
-Oct 2012-Present **Principal Software Developer**
+Jun 2015-Present **Software Developer**
+
+Test Double, Columbus OH
+
+* A software development consulting agency which builds rich web and mobile applications for a variety of clients. We also speak at conferences and participate in open source development.
+
+Oct 2012-Jun 2015 **Principal Software Developer**
 
 Virtual Hold Technology (VHT), Akron OH
 
