@@ -25,7 +25,8 @@ To work with great developers building great software and have fun doing it.
 * Lead organizer of the [Akron Code Club](http://www.meetup.com/AkronCodeClub/) software
   development meetup group with nearly 200 registered members and regular attendance of 20-30.
 * Speaker at several conferences including
-  [RubyConf](http://www.confreaks.com/videos/2872-rubyconf2013-advanced-concurrent-programming-in-ruby),
+  [RubyConf 2015](http://confreaks.tv/videos/rubyconf2015-everything-you-know-about-the-gil-is-wrong),
+  [RubyConf 2013](http://www.confreaks.com/videos/2872-rubyconf2013-advanced-concurrent-programming-in-ruby),
   CodeMash,
   [Cascadia Ruby](http://www.confreaks.com/videos/2790-cascadiaruby2013-advanced-multithreading-in-ruby),
   and Stir Trek.
