@@ -27,7 +27,7 @@ To work with great developers building great software and have fun doing it.
 * Speaker at several conferences including
   [RubyConf 2015](http://confreaks.tv/videos/rubyconf2015-everything-you-know-about-the-gil-is-wrong),
   [RubyConf 2013](http://www.confreaks.com/videos/2872-rubyconf2013-advanced-concurrent-programming-in-ruby),
-  CodeMash,
+  CodeMash (2016 & 2014),
   [Cascadia Ruby](http://www.confreaks.com/videos/2790-cascadiaruby2013-advanced-multithreading-in-ruby),
   and Stir Trek.
 
@@ -38,6 +38,7 @@ Jun 2015-Present **Software Developer**
 Test Double, Columbus OH
 
 * A software development consulting agency which builds rich web and mobile applications for a variety of clients. We also speak at conferences and participate in open source development.
+* Currently building social tools for an online game developer.
 
 Oct 2012-Jun 2015 **Principal Software Developer**
 
