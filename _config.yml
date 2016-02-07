@@ -21,7 +21,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
 
 # Site owner
@@ -34,23 +34,23 @@ owner:
   twitter: jerrydantonio
   facebook: jdantonio
   google:
-    plus: 
+    plus:
     analytics: UA-57134075-1
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: jdantonio
-  stackoverflow: 
+  stackoverflow:
   linkedin: jdantonio
-  instagram: 
+  instagram:
   #lastfm: stmpjmpr
-  tumblr: 
-  pinterest: 
-  foursquare: 
+  tumblr:
+  pinterest:
+  foursquare:
   #steam: jdantonio
-  dribbble: 
-  youtube: 
+  dribbble:
+  youtube:
   #soundcloud: jdantonio
 
 include: [".htaccess"]
