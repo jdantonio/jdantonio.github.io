@@ -25,6 +25,7 @@ To work with great developers building great software and have fun doing it.
 * Lead organizer of the [Akron Code Club](http://www.meetup.com/AkronCodeClub/) software
   development meetup group with nearly 200 registered members and regular attendance of 20-30.
 * Speaker at several conferences including
+  [RubyConf Brazil 2016](https://www.eventials.com/locaweb/a-jornada-de-concorrencia-do-ruby-com-jerry-d-antonio/) (keynote)
   [RailsConf 2016](http://confreaks.tv/videos/railsconf2016-inside-activejob),
   [RubyConf 2015](http://confreaks.tv/videos/rubyconf2015-everything-you-know-about-the-gil-is-wrong),
   [RubyConf 2013](http://www.confreaks.com/videos/2872-rubyconf2013-advanced-concurrent-programming-in-ruby),
@@ -34,12 +35,17 @@ To work with great developers building great software and have fun doing it.
 
 ## Employment
 
-Jun 2015-Present **Software Developer**
+Oct 2016-Present **Software Engineer**
+
+Riot Games, Los Angeles CA
+
+* Member of the Always Available Friends (AAF) team, which extend Riot's ecosystem into player's lives by creating always-on, in-client, in-game, mobile-enhanced experiences.
+
+Jun 2015-Oct 2016 **Software Developer**
 
 Test Double, Columbus OH
 
 * A software development consulting agency which builds rich web and mobile applications for a variety of clients. We also speak at conferences and participate in open source development.
-* Currently building social tools for an online game developer.
 
 Oct 2012-Jun 2015 **Principal Software Developer**
 
